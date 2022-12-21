@@ -47,3 +47,20 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+jsk:
+   name: jsk
+   username: 정상규
+   site: https://github.com/johnbunnyan
+   avatar: icon.png
+   bio: "뭐하는 놈인가"
+   email: jsk717543@gmail.com
+   social:
+      # - title: "github"
+      #   url: "https://github.com/sujaykundu777"
+      # - title: "linkedin"
+      #   url: "https://www.linkedin.com/in/sujaykundu"
+      # - title: "youtube"
+      #   url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      # - title: "facebook"
+      #   url: "https://www.facebook.com/sujay.kundu2"
+
