@@ -5,8 +5,8 @@
     <description>devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2022 02:10:36 +0900</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2022 02:10:36 +0900</lastBuildDate>
+    <pubDate>Thu, 22 Dec 2022 02:19:17 +0900</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2022 02:19:17 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
 
     
@@ -41,9 +41,9 @@
     &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trainloader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;testloader&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Wed, 21 Dec 2022 03:30:23 +0900</pubDate>
-        <link>http://localhost:4000/blog/welcome-to-devlopr-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/welcome-to-devlopr-jekyll/</guid>
+        <pubDate>Tue, 20 Dec 2022 03:30:23 +0900</pubDate>
+        <link>http://localhost:4000/blog/wtf/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/wtf/</guid>
       </item>
     
 
@@ -69,7 +69,7 @@
     &lt;a name=&quot;딥러닝&quot;&gt;&lt;/a&gt;
      
     &lt;article class=&quot;center&quot;&gt;
-      &lt;h6&gt;&lt;a href=&quot;/blog/welcome-to-devlopr-jekyll/&quot;&gt;DCGAN 해석&lt;/a&gt;&lt;/h6&gt;
+      &lt;h6&gt;&lt;a href=&quot;/blog/wtf/&quot;&gt;DCGAN 해석&lt;/a&gt;&lt;/h6&gt;
     &lt;/article&gt;
 
 
