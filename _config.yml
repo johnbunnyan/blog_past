@@ -17,7 +17,7 @@ urls:
     - text: gallery
       url: /gallery
     - text: PlayGround
-      url: /blog2
+      url: /world/playGround
     # - text: Shop
     #   url : /shop
     # - text: Contact
